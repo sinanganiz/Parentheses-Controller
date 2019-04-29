@@ -1,0 +1,14 @@
+C:\Users\Sinan\source\repos\Proje_Derleyici\Proje_Derleyici\bin\Debug\Proje_Derleyici.exe.config
+C:\Users\Sinan\source\repos\Proje_Derleyici\Proje_Derleyici\bin\Debug\Proje_Derleyici.exe
+C:\Users\Sinan\source\repos\Proje_Derleyici\Proje_Derleyici\bin\Debug\Proje_Derleyici.pdb
+C:\Users\Sinan\source\repos\Proje_Derleyici\Proje_Derleyici\obj\Debug\Parentheses Compiler.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\Proje_Derleyici\Proje_Derleyici\obj\Debug\Parentheses Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\Proje_Derleyici\Proje_Derleyici\obj\Debug\Proje_Derleyici.exe
+C:\Users\Sinan\source\repos\Proje_Derleyici\Proje_Derleyici\obj\Debug\Proje_Derleyici.pdb
+C:\Users\Sinan\source\repos\Parantez-Derleyici\Proje_Derleyici\bin\Debug\Proje_Derleyici.exe.config
+C:\Users\Sinan\source\repos\Parantez-Derleyici\Proje_Derleyici\bin\Debug\Proje_Derleyici.exe
+C:\Users\Sinan\source\repos\Parantez-Derleyici\Proje_Derleyici\bin\Debug\Proje_Derleyici.pdb
+C:\Users\Sinan\source\repos\Parantez-Derleyici\Proje_Derleyici\obj\Debug\Parentheses Compiler.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\Parantez-Derleyici\Proje_Derleyici\obj\Debug\Parentheses Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\Parantez-Derleyici\Proje_Derleyici\obj\Debug\Proje_Derleyici.exe
+C:\Users\Sinan\source\repos\Parantez-Derleyici\Proje_Derleyici\obj\Debug\Proje_Derleyici.pdb
